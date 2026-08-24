@@ -6,7 +6,7 @@ The game "Battleship"
 
 Запуск под Linux - for_linux/main (48 Мб)
 
-<iframe width="560" height="315"
-src="https://youtu.be/VaD9CPOMB8Y)](https://youtu.be/VaD9CPOMB8Y"
-frameborder="0" allowfullscreen>
-</iframe>
+Видеопрезентация
+
+[![Смотреть видео](https://img.youtube.com/vi/VaD9CPOMB8Y/0.jpg)](https://youtu.be/VaD9CPOMB8Y)
+
