@@ -1,0 +1,8 @@
+{
+    "font_size": 16,
+    "player_ship_color": "Синий",
+    "player_field_color": "Светлый",
+    "computer_field_color": "Светлый",
+    "computer_ship_color": "Зелёный",
+    "field_size": 350
+}
