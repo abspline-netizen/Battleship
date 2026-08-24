@@ -1,0 +1,67 @@
+[
+    {
+        "player_name": "Игрок",
+        "level": "easy",
+        "score": 608
+    },
+    {
+        "player_name": "Дмитрий",
+        "level": "easy",
+        "score": 518
+    },
+    {
+        "player_name": "Игрок",
+        "level": "easy",
+        "score": 1010
+    },
+    {
+        "player_name": "New",
+        "level": "medium",
+        "score": 160
+    },
+    {
+        "player_name": "Игрок",
+        "level": "hard",
+        "score": 97
+    },
+    {
+        "player_name": "Игрок",
+        "level": "easy",
+        "score": 195
+    },
+    {
+        "player_name": "Колобок",
+        "level": "easy",
+        "score": 310
+    },
+    {
+        "player_name": "Игрок",
+        "level": "medium",
+        "score": 96
+    },
+    {
+        "player_name": "Игрок",
+        "level": "medium",
+        "score": 92
+    },
+    {
+        "player_name": "Игрок",
+        "level": "medium",
+        "score": 69
+    },
+    {
+        "player_name": "Света",
+        "level": "easy",
+        "score": 115
+    },
+    {
+        "player_name": "Игрок",
+        "level": "medium",
+        "score": 95
+    },
+    {
+        "player_name": "Игрок",
+        "level": "hard",
+        "score": 47
+    }
+]
