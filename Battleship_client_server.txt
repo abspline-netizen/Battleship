@@ -1,6 +1,0 @@
-cd F:\My_python_projects\Battleship_client_server
-git init
-python -m venv venv
-py -m venv venv
-
-
